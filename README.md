@@ -19,11 +19,6 @@ A simple web application to generate secure and random passwords. This tool ensu
 2. Click the **Generate Password** button to create a new password.
 3. Click the **Copy** icon to copy the password to your clipboard.
 
-## Screenshot
-Below is a preview of the Password Generator:
-
-![Screenshot](gene.png)
-
 ## Installation
 1. Clone this repository:
    ```bash
